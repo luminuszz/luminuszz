@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**luminuszz/luminuszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Davi Ribeiro (luminuszz) 👋 💻
 
-Here are some ideas to get you started:
+ **Um Desenvolvedor web apaixonado por javascript e cheio de boas   historias e um bom café ☕️ 😅**
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### contact:
+   - davi5.ribeiro.contato@gmail.com
+
+ ### folow
+
+  - Linkedin: https://www.linkedin.com/in/davi-ribeiro-luminuszz/
+  - GitHub: https://github.com/luminuszz
+  
+
