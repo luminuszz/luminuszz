@@ -1,7 +1,7 @@
 
 ## Hi, I'm Davi Ribeiro (luminuszz) 👋 💻
 
-![img](48535259.jpeg)
+
 
  **Um Desenvolvedor web apaixonado por javascript e cheio de boas   historias e um bom café ☕️ 😅**
  
