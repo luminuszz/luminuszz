@@ -16,5 +16,7 @@
 - Linkedin: https://www.linkedin.com/in/davi-ribeiro-luminuszz/
 - GitHub: https://github.com/luminuszz
 
-### 
+### GitHub
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luminuszz)](https://github.com/luminuszz/github-readme-stats)
 
