@@ -6,11 +6,12 @@
  
  :computer:   ReactJS, Node, React Native, Typescript, Ruby
 
-
  ### 📫 Contact: 
-- e-mail : [![Gmail Badge](davi5.ribeiro.contato@gmail.com)
+- e-mail : [![Gmail Badge](https://img.shields.io/badge/-davi5.ribeiro.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fhugoduarte@gmail.com)](mailto:davi5.ribeiro.contato@gmail.com
+)
 
 ### Follow me
+
   
 - Linkedin: https://www.linkedin.com/in/davi-ribeiro-luminuszz/
 - GitHub: https://github.com/luminuszz
