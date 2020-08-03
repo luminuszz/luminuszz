@@ -3,8 +3,12 @@
 
 
 *"Make it Work, Make it Right, Make it Fast."*
+
+ - I'm a full stack developer :computer 
  
- :computer:   ReactJS, Node, React Native, Typescript, Ruby
+ - :computer:   ReactJS, Node, React Native, Typescript, Ruby
+ 
+ - :coffe:      I’m currently working at **![Caffeine Army](https://www.caffeinearmy.com.br/)**
 
  ### 📫 Contact: 
 [![Gmail Badge](https://img.shields.io/badge/-davi5.ribeiro.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fhugoduarte@gmail.com)](mailto:davi5.ribeiro.contato@gmail.com
@@ -18,5 +22,5 @@
 
 ### GitHub
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luminuszz)](https://github.com/luminuszz/github-readme-stats)
+[![Luminuszz github status](https://github-readme-stats.vercel.app/api?username=luminuszz)](https://github.com/luminuszz/github-readme-stats)
 
