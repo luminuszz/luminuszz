@@ -8,7 +8,6 @@
  
 - :computer:   ReactJS, Node, React Native, Typescript, Ruby
  
-- :coffee:     I’m currently working at **[Caffeine Army](https://www.caffeinearmy.com.br/)**
 
  ### 📫 Contact: 
 [![Gmail Badge](https://img.shields.io/badge/-davi5.ribeiro.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davi5.ribeiro.contato@gmail.com)](mailto:davi5.ribeiro.contato@gmail.com)
