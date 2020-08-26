@@ -12,7 +12,7 @@
  ### 📫 Contact: 
 [![Gmail Badge](https://img.shields.io/badge/-davi5.ribeiro.contato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davi5.ribeiro.contato@gmail.com-)](mailto:davi5.ribeiro.contato@gmail.com-)
 
-[![Linkedin Badge](https://img.shields.io/badge/davi-ribeiro-luminuszz?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-ribeiro-luminuszz)](https://www.linkedin.com/in/davi-ribeiro-luminuszz/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-luminuszz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-ribeiro-luminuszz/)](https://www.linkedin.com/in/davi-ribeiro-luminuszz/) 
 
 ### Follow me
 
