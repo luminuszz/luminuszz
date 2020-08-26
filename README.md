@@ -6,7 +6,7 @@
 
 - I'm a full stack developer :computer 
  
-- :computer:   ReactJS, Node, React Native, Typescript, Ruby
+- :computer:   ReactJS, Node, React Native, Typescript, PHP
  
 
  ### 📫 Contact: 
