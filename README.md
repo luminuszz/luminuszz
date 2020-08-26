@@ -4,7 +4,7 @@
 
 *"Make it Work, Make it Right, Make it Fast."*
 
-- I'm a full stack developer :computer 
+- I'm a full stack developer :computer:
  
 - :computer:   ReactJS, Node, React Native, Typescript, PHP
  
