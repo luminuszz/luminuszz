@@ -24,5 +24,5 @@
 
 <center>
  </center>
- ![Luminuszz github status](https://github-readme-stats.vercel.app/api?username=luminuszz)](https://github.com/luminuszz/github-readme-stats)
+ [Luminuszz github status][(https://github-readme-stats.vercel.app/api?username=luminuszz)](https://github.com/luminuszz/github-readme-stats)
 
