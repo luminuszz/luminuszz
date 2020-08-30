@@ -22,5 +22,8 @@
 
 ### GitHub
 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=luminuszz" alt="luminuszz" /> </p>
+ <p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=luminuszz" alt="luminuszz" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminuszz&layout=compact)](https://github.com/vandsc/github-readme-stats)
+</p>
 
