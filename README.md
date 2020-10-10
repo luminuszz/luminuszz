@@ -19,6 +19,7 @@
   
 - Linkedin: https://www.linkedin.com/in/davi-ribeiro-luminuszz/
 - GitHub: https://github.com/luminuszz
+- Me: https://luminuszz.dev/
 
 ### GitHub
 
