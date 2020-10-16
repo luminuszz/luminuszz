@@ -23,14 +23,11 @@
 ### GitHub
 
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminuszz&layout=compact&show_icons=true&theme=tokyonight" alt="luminuszz" />
-</p>
 
- <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=luminuszz&show_icons=true&theme=tokyonight" alt="luminuszz" />
  
-</p>
+
 
 
 
