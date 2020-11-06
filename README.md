@@ -3,6 +3,7 @@
 
 
 *"Make it Work, Make it Right, Make it Fast."*
+
 *"We never leave the same as when we arrived."*
 
 - I'm a full stack developer :computer:
