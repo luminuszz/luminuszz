@@ -9,6 +9,8 @@
 - I'm a full stack developer :computer:
  
 - :rocket: ReactJS, Node, React Native, Typescript
+
+- AWS
  
 
  ### 📫 Contact: 
