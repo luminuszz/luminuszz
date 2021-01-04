@@ -10,9 +10,7 @@
 
 - I'm a full stack developer :computer:
  
-- :rocket: ReactJS, Node, React Native, Typescript
-
-- AWS
+- :rocket: ReactJS, Node, React Native, Nextjs, Nestjs, Typescript
  
 
  ### 📫 Contact: 
