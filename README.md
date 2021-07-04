@@ -23,7 +23,7 @@ _"We never leave the same as when we arrived."_
 
 ### Status :alien:
 
-<div align="center">
+<div align="left">
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminuszz&layout=compact&show_icons=true&theme=tokyonight" alt="luminuszz" />
 
@@ -31,6 +31,6 @@ _"We never leave the same as when we arrived."_
 
 </br>
 
-  <div align="center">
+  <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luminuszz&show_icons=true&theme=tokyonight" alt="luminuszz" />
   </div>
