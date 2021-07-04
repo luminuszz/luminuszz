@@ -12,14 +12,19 @@ _"We never leave the same as when we arrived."_
 
 ### 📫 Contact:
 
-- [![Gmail Badge](https://img.shields.io/badge/-Davi-Rbeiro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davi5.ribeiro.contato@gmail.com-)](mailto:davi5.ribeiro.contato@gmail.com-)
-- [![Linkedin Badge](https://img.shields.io/badge/-Davi-Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-ribeiro-luminuszz/)](https://www.linkedin.com/in/davi-ribeiro-luminuszz/)
+- [![Gmail Badge](https://img.shields.io/badge/-DaviRbeiro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davi5.ribeiro.contato@gmail.com-)](mailto:davi5.ribeiro.contato@gmail.com-)
+- [![Linkedin Badge](https://img.shields.io/badge/-DaviRibeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-ribeiro-luminuszz/)](https://www.linkedin.com/in/davi-ribeiro-luminuszz/)
 
 ### Follow me
 
 - Linkedin: https://www.linkedin.com/in/davi-ribeiro-luminuszz/
 - GitHub: https://github.com/luminuszz
 - Me: https://luminuszz.dev/
+
+</br>
+
+</br>
+
 
 ### Status :alien:
 
