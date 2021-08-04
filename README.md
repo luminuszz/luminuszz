@@ -8,7 +8,7 @@ _"We never leave the same as when we arrived."_
 
 - I'm a full stack developer :computer:
 
-- :rocket: ReactJS, Node, React Native, Nextjs, Nestjs, Typescript
+- :rocket: ReactJS, Node, React Native, Nextjs, Nestjs, Typescript, Nestjs
 
 ### 📫 Contact:
 
