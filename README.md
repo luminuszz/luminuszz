@@ -28,14 +28,12 @@ _"We never leave the same as when we arrived."_
 
 ### Status :alien:
 
-<div align="left">
-
+<div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminuszz&layout=compact&show_icons=true&theme=tokyonight" alt="luminuszz" />
-
 </div>
 
 </br>
 
-  <div align="left">
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luminuszz&show_icons=true&theme=tokyonight" alt="luminuszz" />
   </div>
