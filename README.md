@@ -15,12 +15,6 @@ _"We never leave the same as when we arrived."_
  [![Gmail Badge](https://img.shields.io/badge/-DaviRbeiro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davi5.ribeiro.contato@gmail.com-)](mailto:davi5.ribeiro.contato@gmail.com-)
  [![Linkedin Badge](https://img.shields.io/badge/-DaviRibeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-ribeiro-luminuszz/)](https://www.linkedin.com/in/davi-ribeiro-luminuszz/)
 
-### Follow me
-
-- Linkedin: https://www.linkedin.com/in/davi-ribeiro-luminuszz/
-- GitHub: https://github.com/luminuszz
-- Me: https://luminuszz.dev/
-
   </br>
 
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt=" spotify playing" width="400" />](https://open.spotify.com/user/12164152309)
