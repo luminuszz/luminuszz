@@ -21,7 +21,11 @@ _"We never leave the same as when we arrived."_
 - GitHub: https://github.com/luminuszz
 - Me: https://luminuszz.dev/
 
-</br>
+  </br>
+
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt=" spotify playing" width="400" />](https://open.spotify.com/user/12164152309)
+
+
 
 </br>
 
@@ -37,3 +41,22 @@ _"We never leave the same as when we arrived."_
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luminuszz&show_icons=true&theme=tokyonight" alt="luminuszz" />
   </div>
+
+  <div>
+  <h3 align="left">Linguagens:</h3>
+  </div>
+ <div>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank">  </a> <img href="https://nodejs.org" target="_blank"> 
+<img src=""></img>
+
+</div>
+
+<div>  
+  <h4 align="right"> Visitantes </h4>
+  <img align="right" src="https://profile-counter.glitch.me/luminuszz/count.svg">
+</div> 
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div>
