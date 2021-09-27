@@ -52,9 +52,9 @@ _"We never leave the same as when we arrived."_
 
 </div>
 
-<div>  
+<div align="left">  
   <h4 align="left"> Visitantes </h4>
-  <img align="right" src="https://profile-counter.glitch.me/luminuszz/count.svg">
+  <img align="left" src="https://profile-counter.glitch.me/luminuszz/count.svg">
 </div> 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
