@@ -53,7 +53,7 @@ _"We never leave the same as when we arrived."_
 </div>
 
 <div>  
-  <h4 align="right"> Visitantes </h4>
+  <h4 align="left"> Visitantes </h4>
   <img align="right" src="https://profile-counter.glitch.me/luminuszz/count.svg">
 </div> 
 
