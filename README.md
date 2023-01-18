@@ -17,10 +17,6 @@ _"We never leave the same as when we arrived."_
 
   </br>
 
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt=" spotify playing" width="400" />](https://open.spotify.com/user/12164152309)
-
-
-
 </br>
 
 
