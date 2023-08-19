@@ -10,10 +10,10 @@ _"We never leave the same as when we arrived."_
 
 - :rocket: Javascript, Typescript, ReactJS, Node, React Native, Nextjs, Nestjs
 
-### 📫 Contact:
+### 📫 Contact: 
 
- [![Gmail Badge](https://img.shields.io/badge/-DaviRbeiro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davi5.ribeiro.contato@gmail.com-)](mailto:contato@daviribeiro.com)
- [![Linkedin Badge](https://img.shields.io/badge/-DaviRibeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/davi-ribeiro-daviribeiro/](link))]([https://www.linkedin.com/in/davi-ribeiro-luminuszz/](https://www.linkedin.com/in/davi-ribeiro-daviribeiro/))
+ <a href = "mailto:contato@daviribeiro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/davi-ribeiro-daviribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   </br>
 
