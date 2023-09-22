@@ -22,17 +22,20 @@ _"We never leave the same as when we arrived."_
 
 ### Status :alien:
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminuszz&layout=compact&show_icons=true&theme=tokyonight" alt="luminuszz" />
+<div display="block" align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=luminuszz&show_icons=true&theme=tokyonight" alt="luminuszz" />
 </div>
 
 </br>
 
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luminuszz&show_icons=true&theme=tokyonight" alt="luminuszz" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminuszz&layout=compact&show_icons=true&theme=tokyonight" alt="luminuszz" />
   </div>
 
-
+</br>
+<div align="center">
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=luminuszz&theme=tokyonight&hide_border=true" style="max-width:100%;" />
+</div>
 
 </div>
 
