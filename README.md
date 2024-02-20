@@ -1,6 +1,9 @@
 ## Hi, I'm Davi Ribeiro (luminuszz)  💻
 
-<img align="right" width="50%" height="70%" src="https://64.media.tumblr.com/e8cb21e580b7ed5dc61441ec307e680e/tumblr_piwa2nItrF1svixs9_500.gifv" alt="Code green" />
+
+<img  align="right" width="50%" height="70%" src="https://api.daily.dev/devcards/v2/3j0PBeM0kElMPOYRanJ7h.png?type=default&r=vqb" alt="Davi Ribeiro's Dev Card"/>
+
+
 
 _"Make it Work, Make it Right, Make it Fast."_ - _Kent Beck_
 
@@ -44,6 +47,6 @@ _"We never leave the same as when we arrived."_
   <img align="rigth" src="https://profile-counter.glitch.me/luminuszz/count.svg">
 </div> 
 
-<a href="https://app.daily.dev/luminuszz"><img src="https://api.daily.dev/devcards/v2/3j0PBeM0kElMPOYRanJ7h.png?type=wide&r=vqb" width="652" alt="Davi Ribeiro's Dev Card"/></a>
+
 
 
