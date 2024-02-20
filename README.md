@@ -44,4 +44,8 @@ _"We never leave the same as when we arrived."_
   <img align="rigth" src="https://profile-counter.glitch.me/luminuszz/count.svg">
 </div> 
 
+<div align="center">
+<a href="https://app.daily.dev/luminuszz"><img src="https://api.daily.dev/devcards/v2/3j0PBeM0kElMPOYRanJ7h.png?r=31r" width="356" alt="Davi Ribeiro's Dev Card"/></a>
+</div>
+
 
