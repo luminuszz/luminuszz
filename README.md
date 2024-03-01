@@ -11,9 +11,9 @@ _"We never leave the same as when we arrived."_
 
 - I'm a full stack developer :computer:
 
-- Acompanhe e sincronize suas obras favoritas com  [OKAMI](https://me.okami.daviribeiro.com)
-
 - :rocket: Javascript, Typescript, ReactJS, Node, React Native, Nextjs, Nestjs
+
+- Follow and synchronize your favorite works with  [OKAMI](https://me.okami.daviribeiro.com)
 
 ### 📫 Contact: 
 
