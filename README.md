@@ -13,7 +13,7 @@ _"We never leave the same as when we arrived."_
 
 - :rocket: Javascript, Typescript, ReactJS, Node, React Native, Nextjs, Nestjs
 
-- Follow and synchronize your favorite works with  [OKAMI](https://me.okami.daviribeiro.com)
+- Follow and synchronize your favorite works with  [Okami](https://me.okami.daviribeiro.com)
 
 ### 📫 Contact: 
 
