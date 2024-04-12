@@ -6,11 +6,6 @@
 <img  align="right" width="50%" height="70%" src="https://api.daily.dev/devcards/v2/3j0PBeM0kElMPOYRanJ7h.png?type=default&r=vqb" alt="Davi Ribeiro's Dev Card"/>
 
 
-
-_"Make it Work, Make it Right, Make it Fast."_ - _Kent Beck_
-
-_"We never leave the same as when we arrived."_
-
 - I'm a full stack developer :computer:
 
 - :rocket: Javascript, Typescript, ReactJS, Node, React Native, Nextjs, Nestjs
@@ -51,6 +46,9 @@ _"We never leave the same as when we arrived."_
   <h4 align="rigth"> Visitantes </h4>
   <img align="rigth" src="https://profile-counter.glitch.me/luminuszz/count.svg">
 </div> 
+
+
+_"Make it Work, Make it Right, Make it Fast."_ - _Kent Beck_
 
 
 
