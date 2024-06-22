@@ -30,7 +30,12 @@
 
 <br></br>
 
-### Status :alien:
+ <div align="center">
+   <strong> Status :alien:</strong>
+  
+ </div>
+
+<br></br>
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=luminuszz&show_icons=true&theme=tokyonight" alt="luminuszz"  style="max-width:100%;" /> 
