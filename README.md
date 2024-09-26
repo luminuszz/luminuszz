@@ -1,7 +1,5 @@
 ## Hi, I'm Davi Ribeiro (luminuszz)  💻
 
- <img width="100%" src="https://camo.githubusercontent.com/a9024e32eecd7e913049bf25b294203062693595ada3da148d9b7694347517d0/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d464646414344266865696768743d3132302673656374696f6e3d686561646572" />
-
 
 <img  align="right" width="50%" height="70%" src="https://api.daily.dev/devcards/v2/3j0PBeM0kElMPOYRanJ7h.png?type=default&r=vqb" alt="Davi Ribeiro's Dev Card"/>
 
