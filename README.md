@@ -1,7 +1,7 @@
 ## Hi, I'm Davi Ribeiro (luminuszz)  💻
 
 
-<img  align="right" width="50%" height="70%" src="https://api.daily.dev/devcards/v2/3j0PBeM0kElMPOYRanJ7h.png?type=default&r=vqb" alt="Davi Ribeiro's Dev Card"/>
+<img  align="right" src="./123.gif"  alt="Davi Ribeiro's Dev Card"/>
 
 
 - I'm a full stack developer :computer:
