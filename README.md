@@ -57,6 +57,7 @@
   <img align="rigth" src="https://profile-counter.glitch.me/luminuszz/count.svg">
 </div> 
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12164152309&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 
