@@ -8,7 +8,6 @@
 
 - :rocket: Javascript, Typescript, ReactJS, Node, React Native, Nextjs, Nestjs
 
-- Follow and synchronize your favorite works with mangas, animes and more with  [Okami](https://go.myokami.xyz/)
 
 ### 📫 Contact: 
 
