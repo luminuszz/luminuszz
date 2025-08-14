@@ -21,7 +21,7 @@
  ![Mongodb.js](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white) ![pnpm.js](https://img.shields.io/badge/pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=white) ![BUN.js](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 
- <div>
+ <div style={{marginLeft:"10px"}}>
  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12164152309&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" />
 </div>
 
