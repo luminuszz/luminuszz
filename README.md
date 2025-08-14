@@ -6,7 +6,8 @@
 
 - I'm a full stack developer :computer:
 
-- :rocket: Javascript, Typescript, ReactJS, Node, React Native, Nextjs, Nestjs
+- :rocket: Javascript, Typescript,
+- :rocket: ReactJS, Node, React Native, Nextjs, Nestjs
 
 
 ### 📫 Contact: 
